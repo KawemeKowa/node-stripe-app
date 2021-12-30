@@ -34,6 +34,8 @@ You will be provided with a secret key and a public key.
 Create a .env file in the root and inject your credentials so it looks like this.
 
 STRIPE_SECRET_KEY = 'your_secret_key'
+
 STRIPE_PUBLIC_KEY = 'your_public_key'
+
 #Step 7: To start the express server, run the following
 node server.js
