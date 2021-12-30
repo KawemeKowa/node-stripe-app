@@ -13,7 +13,7 @@ Code editor (VS Code)
 # Common setup
 Clone the repo and install the dependencies.
 
-git clone https://github.com/KawemeKowa/node-stripe-app.git
+git clone https://github.com/KawemeKowa/node-stripe-app.git.
 cd node-stripe-app
 npm install
 #Steps for read-only access
