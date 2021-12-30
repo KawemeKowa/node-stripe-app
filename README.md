@@ -1,5 +1,5 @@
 ## node-stripe-app
-Simple node application to buy items and pay using bank card through stripe api. This node.js app teaches you how to intergrate stripe payements:
+Simple node application to buy items and pay using bank card through stripe api. This node.js app teaches you how to intergrate stripe payements: I use ejs to provide a frontend view
 
 
 # What is Stripe?
@@ -7,7 +7,9 @@ The Stripe API allows developers to access the functionality of Stripe. ... Stri
 
 # Requirements
 Node 8
+
 Git
+
 Code editor (VS Code)
 
 # Common setup
