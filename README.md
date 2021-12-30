@@ -39,5 +39,6 @@ STRIPE_SECRET_KEY = 'your_secret_key'
 
 STRIPE_PUBLIC_KEY = 'your_public_key'
 
-#Step 7: To start the express server, run the following
+#Step 7: To start the express server, run the following:
+
 node server.js
